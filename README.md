@@ -1,2 +1,2 @@
 # PlanetGenerator
-PlanetGenerator
+PlanetGenerato
